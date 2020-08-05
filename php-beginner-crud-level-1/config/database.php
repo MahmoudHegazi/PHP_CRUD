@@ -1,7 +1,7 @@
 <?php
 // used to connect to the database
 $host = "localhost";
-$db_name = "php_beginner_crud_level_1";
+$db_name = "crud";
 $username = "root";
 $password = "";
   
