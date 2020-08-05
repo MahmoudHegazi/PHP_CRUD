@@ -14,4 +14,4 @@ you cann use ```php $cfg['Servers'][$i]['AllowNoPassword'] = true; ``` to login 
 visit localhost/phpmyadmin 
 # /
 user = root
-password = (empty)
+password = (leave it empty)
