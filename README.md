@@ -15,3 +15,6 @@ visit localhost/phpmyadmin
 # /
 user = root
 password = (leave it empty)
+
+
+<img src="php_crud1.PNG">
